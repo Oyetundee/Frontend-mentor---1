@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bigcontainer{
+    margin-top: 30px;
+    margin-top: 10%;
+}
+.condition{
+    display: flex;
+    margin: 0 auto;
+    width: 39%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    
+}
+
+.border{
+    background-color: hsl(252, 100%, 67%);
+    width: 55%;
+    height: 400px;
+    line-height: 100px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.scored{
+    line-height: 20px;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50%;
+    text-align: center;
+    opacity: 0.6;
+}
+.out{
+    line-height: 30px;
+    background-color: hsla(256, 72%, 46%, 1);
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.hi{
+    font-size: 50px;
+    padding-top: 45px;
+}
+h5{
+    padding-top: 5px;
+}
+
+.container{
+    width: 40%;
+    padding: 0 0 0 10px;
+    border: 1px;
+    margin-left: -35%;
+    margin-top: 5%;
+}
+.summary{
+    margin-bottom: 8%;
+}
+.das{
+    margin-bottom: 6%;
+}
+.continue{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 8px;
+}
+.item{
+    background-color: hsl(0, 73%, 97%);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.itemm{
+    background-color: hsl(37, 80%, 94%);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.ite{
+    background-color: hsl(166, 56%, 89%);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.it{
+    background-color: hsl(235, 61%, 88%);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.reaction{
+    display: inline;
+    position: relative;
+    top: -5px;
+    left: 0;
+    color:  hsl(0, 88%, 61%);
+}
+.memory{
+    display: inline;
+    position: relative;
+    top: -5px;
+    left: 0;
+    color: hsl(38, 88%, 66%);
+}
+.verbal{
+    display: inline;
+    position: relative;
+    top: -5px;
+    left: 0;
+    color:  hsl(165, 85%, 63%);
+}
+.visual{
+    display: inline;
+    position: relative;
+    top: -5px;
+    left: 0;
+    color:  hsl(235, 90%, 68%);
+}
+.one{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
